@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamdy%20Salah%20Kamil&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+Spring+Boot+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications+%F0%9F%92%BB" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+Spring+Boot+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <br>
 <br>
