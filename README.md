@@ -77,7 +77,8 @@ achievements:
 <td width="50%">
 
 ### 📚 Soroban Learning Platform 
-** https://sorobanalbarq.com
+- **https://sorobanalbarq.com**
+
 **Freelance** | 2025
 - Developed REST API with **Laravel 12**
 - Designed database architecture & authentication
@@ -88,7 +89,7 @@ achievements:
 <td width="50%">
 
 ### 🏥 Platform Engineer - SHefaa 
-** https://v2-app.qraura.shop
+- **https://v2-app.qraura.shop**
 
 **Aura QR | Healthcare Platform | 2026
 - Built multi-tenant healthcare platform
