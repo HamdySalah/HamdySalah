@@ -6,6 +6,9 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+Spring+Boot+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
+
+<br>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamdysalah&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/hamdysalah?label=Followers&style=for-the-badge&color=3b82f6" alt="Followers" />
