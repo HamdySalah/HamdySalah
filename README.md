@@ -64,9 +64,9 @@ achievements:
 </td>
 <td width="50%">
 
-### 🎙️ Voice Casting Platform
-**Personal Project** | 2025
-- Built complete marketplace with **Laravel & MySQL**
+### 🏢 AuraQR - Full-Stack Developer
+2026 | Current
+- Built complete Mutiservices Projects with **Laravel & MySQL & NextJS & ReactJS**
 - Implemented admin dashboard & RBAC
 - Developed audio upload/playback system
 - Applied **MVC architecture** & RESTful principles
@@ -76,7 +76,7 @@ achievements:
 <tr>
 <td width="50%">
 
-### 📚 Soroban Learning Platform
+### 📚 Soroban Learning Platform - https://sorobanalbarq.com
 **Freelance** | 2025
 - Developed REST API with **Laravel 12**
 - Designed database architecture & authentication
@@ -86,12 +86,12 @@ achievements:
 </td>
 <td width="50%">
 
-### 🌐 WordPress Development
-**Freelance** | 2024-2025
-- Customized themes & plugins
-- Improved SEO performance
-- Delivered **8+ projects** on time
-- Built Python web scraping tools
+### 🏥 Platform Engineer - SHefaa
+**Aura QR | Healthcare Platform | 2026
+- Built multi-tenant healthcare platform
+- Implemented admin approval flows & RBAC
+- Enabled secure prescription issuance
+- Structured medicine & dosage controls
 
 </td>
 </tr>
