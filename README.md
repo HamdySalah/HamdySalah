@@ -11,7 +11,6 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=hamdysalah&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views"/>
   <a href="https://github.com/HamdySalah?tab=followers"><img src="https://img.shields.io/github/followers/HamdySalah?label=Followers&style=flat-square&color=3B82F6&labelColor=0F172A" alt="Followers"/></a>
 </p>
 
