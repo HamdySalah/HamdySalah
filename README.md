@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=220&section=header&text=Hamdy%20Salah%20Kamil&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Multi-Tenant%20SaaS%20%C2%B7%20Production%20Platforms&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Hamdy Salah Kamil — Full-Stack Developer"/>
-
 <a href="https://hamdy-salah.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+Developer+%40+Aura+QR;Multi-Tenant+SaaS+%C2%B7+RBAC+%C2%B7+Secure+REST+APIs;Laravel+%C2%B7+NestJS+%C2%B7+Spring+Boot+%C2%B7+Node.js;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Angular;Shipping+to+production+on+Linux+VPS+%2B+Docker" alt="Full-Stack Developer at Aura QR"/>
+  <img src="assets/hero.svg" width="100%" alt="Hamdy Salah Kamil, Full-Stack Developer building multi-tenant SaaS, secure APIs and production platforms"/>
 </a>
 
 <p>
@@ -13,8 +11,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-22C55E?style=flat-square&labelColor=0F172A" alt="Open to opportunities"/>
-  <img src="https://img.shields.io/badge/Based%20in-Cairo%2C%20Egypt-8B5CF6?style=flat-square&labelColor=0F172A" alt="Based in Cairo, Egypt"/>
   <img src="https://komarev.com/ghpvc/?username=hamdysalah&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views"/>
   <a href="https://github.com/HamdySalah?tab=followers"><img src="https://img.shields.io/github/followers/HamdySalah?label=Followers&style=flat-square&color=3B82F6&labelColor=0F172A" alt="Followers"/></a>
 </p>
@@ -25,25 +21,24 @@
 
 ## 👋 About me
 
-Full-stack developer who builds **production SaaS platforms end-to-end**: database design, secure APIs, polished frontends, and Linux VPS deployments. At **Aura QR** I ship multi-tenant, role-based platforms across **healthcare, automotive and education**, including an AI-powered EdTech product that's live today.
+Full-stack developer who builds **production SaaS platforms end-to-end**: database design, secure APIs, polished frontends, and Linux VPS deployments. I ship multi-tenant, role-based platforms across **healthcare, automotive and education**, including an AI-powered EdTech product that's live today.
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami → Hamdy Salah Kamil, Full-Stack Developer at Aura QR"/>
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami → Hamdy Salah Kamil, Full-Stack Developer in Cairo, Egypt, open to full-time roles and freelance projects"/>
 </p>
 
 ### ⚡ What I build
 
-- 🏢 **Multi-tenant SaaS:** tenant- and year-scoped data, five-level role hierarchies, platforms with 30+ modules
-- 🔐 **Secure APIs & RBAC:** Sanctum / JWT / OAuth, approval workflows, multi-actor business logic
-- 🤖 **AI-powered products:** AI lesson preparation and exam generation with subscriptions and usage quotas
-- 🚀 **Production delivery:** Linux VPS, Coolify, EasyPanel, Nginx, SSL, Docker, CI/CD with GitHub Actions
+<p align="center">
+  <img src="assets/capabilities.svg" width="100%" alt="What I build. Multi-tenant SaaS: tenant- and year-scoped data, five-level role hierarchies, 30+ modules. Secure APIs and RBAC: Sanctum, JWT, OAuth, approval workflows. AI-powered products: AI lesson preparation and exam generation. Production delivery: Linux VPS, Coolify, Nginx, SSL, Docker and CI/CD with GitHub Actions."/>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 💼 Experience
 
-### Full-Stack Developer · Aura QR
-`2026 – Present` · Full-time
+### Full-Stack Developer
+`2026 – Present` · Full-time · Production SaaS
 
 - Delivered production platforms for automotive and healthcare operations on role-based architectures
 - Designed secure APIs, approval workflows and multi-actor business logic across customer and provider roles
@@ -99,7 +94,7 @@ Upgraded a school platform into multi-tenant SaaS: tenant- and year-scoped data,
 <td width="50%" valign="top">
 
 ### 🚗 Saree3 · T-CARS
-**Automotive multi-service platform** · Aura QR
+**Automotive multi-service platform**
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Sanctum"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 
@@ -111,13 +106,13 @@ One platform for car sales, rentals, maintenance services and licence-plate auct
 <td width="50%" valign="top">
 
 ### 🏥 Shifa Medical · شفاء
-**Multi-tenant healthcare RBAC platform** · Aura QR
+**Multi-tenant healthcare RBAC platform**
 
 <img src="https://img.shields.io/badge/Laravel_API-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel API"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/>
 
 Connects facility operations, doctor workflows and controlled prescription management, with admin approval flows, secure prescription issuance and structured medicine and dosage controls.
 
-<img src="https://img.shields.io/badge/Private-Aura%20QR-64748B?style=for-the-badge" alt="Private Aura QR project"/>
+<img src="https://img.shields.io/badge/Private-client%20project-64748B?style=for-the-badge" alt="Private client project"/>
 
 </td>
 </tr>
@@ -260,4 +255,4 @@ I'm open to **full-time roles, freelance projects and collaborations**, especial
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=120&section=footer" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something great together."/>
