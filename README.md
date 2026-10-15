@@ -222,8 +222,8 @@ Connects verified nurses with patients for at-home care: location-based matching
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamdySalah/HamdySalah/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/HamdySalah/HamdySalah/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg"/>
+  <img src="assets/snake.svg" width="100%" alt="Snake eating my contribution graph"/>
 </picture>
 
 </div>

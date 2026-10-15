@@ -1,33 +1,29 @@
-name: Generate contribution snake
+name: Update contribution snake
+
+# Regenerates assets/snake*.svg from the public contribution calendar and commits them if they changed.
+# The README reads the committed files, so the profile still renders when Actions can't run.
 
 on:
   schedule:
     - cron: "0 0 * * *"   # daily
   workflow_dispatch:
-  push:
-    branches: [main]
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     permissions:
       contents: write
 
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#3b82f6&color_dots=#ebedf0,#bfdbfe,#93c5fd,#3b82f6,#1d4ed8
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#8b5cf6&color_dots=#161b22,#1e3a8a,#1d4ed8,#3b82f6,#60a5fa
+      - uses: actions/checkout@v4
 
-      - name: Publish to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "chore: update contribution snake"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Regenerate snake SVGs
+        run: python3 scripts/gen_snake.py "${{ github.repository_owner }}" assets
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/snake.svg assets/snake-dark.svg
+          git diff --cached --quiet || { git commit -m "chore: update contribution snake" && git push; }
