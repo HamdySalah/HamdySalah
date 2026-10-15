@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="10" viewBox="0 0 880 10" role="img" aria-label="divider">
+<defs>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="880" y2="0" spreadMethod="repeat">
+<stop offset="0" stop-color="#3b82f6"/><stop offset="0.33" stop-color="#8b5cf6"/><stop offset="0.66" stop-color="#06b6d4"/><stop offset="1" stop-color="#3b82f6"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="880 0" dur="6s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.2" stop-color="#fff"/><stop offset="0.8" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="comet" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.8" stop-color="#fff" stop-opacity="0.9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<mask id="m"><rect width="880" height="10" fill="url(#fade)"/></mask>
+</defs>
+<g mask="url(#m)">
+<rect x="0" y="4" width="880" height="2" rx="1" fill="url(#g)"/>
+<rect x="-140" y="3.5" width="140" height="3" rx="1.5" fill="url(#comet)">
+<animate attributeName="x" from="-140" to="880" dur="4s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>

@@ -1,424 +1,263 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamdy%20Salah%20Kamil&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=220&section=header&text=Hamdy%20Salah%20Kamil&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Multi-Tenant%20SaaS%20%C2%B7%20Production%20Platforms&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Hamdy Salah Kamil — Full-Stack Developer"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+Spring+Boot%7C+NestJS+%7C+Node.js;ReactJS+%7CNextJs%7CVueJS;Building+Scalable+Web+Applications+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://hamdy-salah.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+Developer+%40+Aura+QR;Multi-Tenant+SaaS+%C2%B7+RBAC+%C2%B7+Secure+REST+APIs;Laravel+%C2%B7+NestJS+%C2%B7+Spring+Boot+%C2%B7+Node.js;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Angular;Shipping+to+production+on+Linux+VPS+%2B+Docker" alt="Full-Stack Developer at Aura QR"/>
+</a>
 
-<br>
-<br>
+<p>
+  <a href="https://hamdy-salah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hamdy--salah.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/hamdy-salah"><img src="https://img.shields.io/badge/LinkedIn-hamdy--salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn"/></a>
+  <a href="mailto:HamdySalah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-HamdySalah.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email"/></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-22C55E?style=flat-square&labelColor=0F172A" alt="Open to opportunities"/>
+  <img src="https://img.shields.io/badge/Based%20in-Cairo%2C%20Egypt-8B5CF6?style=flat-square&labelColor=0F172A" alt="Based in Cairo, Egypt"/>
+  <img src="https://komarev.com/ghpvc/?username=hamdysalah&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views"/>
+  <a href="https://github.com/HamdySalah?tab=followers"><img src="https://img.shields.io/github/followers/HamdySalah?label=Followers&style=flat-square&color=3B82F6&labelColor=0F172A" alt="Followers"/></a>
+</p>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 👋 About me
+
+Full-stack developer who builds **production SaaS platforms end-to-end**: database design, secure APIs, polished frontends, and Linux VPS deployments. At **Aura QR** I ship multi-tenant, role-based platforms across **healthcare, automotive and education**, including an AI-powered EdTech product that's live today.
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamdysalah&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hamdysalah?label=Followers&style=for-the-badge&color=3b82f6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-3b82f6?style=for-the-badge" alt="Focus" />
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami → Hamdy Salah Kamil, Full-Stack Developer at Aura QR"/>
 </p>
 
-</div>
+### ⚡ What I build
 
----
+- 🏢 **Multi-tenant SaaS:** tenant- and year-scoped data, five-level role hierarchies, platforms with 30+ modules
+- 🔐 **Secure APIs & RBAC:** Sanctum / JWT / OAuth, approval workflows, multi-actor business logic
+- 🤖 **AI-powered products:** AI lesson preparation and exam generation with subscriptions and usage quotas
+- 🚀 **Production delivery:** Linux VPS, Coolify, EasyPanel, Nginx, SSL, Docker, CI/CD with GitHub Actions
 
-## 👨‍💻 About Me
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-```yaml
-name: Hamdy Salah Kamil
-location: Assiut, Egypt
-education: 
-  - BSc in Computer & Information Technology (Assiut University)
-  - 9-Month Professional Diploma - Open Source Track (ITI)
-specialization: Full-Stack Web Development & Open-Source Technologies
-current_focus: Building Scalable Web Applications
-passion: Problem Solving & Innovation
+## 💼 Experience
 
-achievements:
-  - "15+ Freelance Projects with 100% Client Satisfaction"
-  - "Contributed to Enterprise Systems at Optomatica"
-  - "Built Healthcare, E-commerce & Content Management Solutions"
-```
+### Full-Stack Developer · Aura QR
+`2026 – Present` · Full-time
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+- Delivered production platforms for automotive and healthcare operations on role-based architectures
+- Designed secure APIs, approval workflows and multi-actor business logic across customer and provider roles
+- Improved platform reliability through modular backend design, data-integrity rules and scalable workflows
+- Shipped two flagship products end-to-end: **Saree3 (T-CARS)** and **Shifa Medical** ([see below](#-featured-projects))
 
-### 🎯 What I Do
+### Full-Stack Developer · Optomatica (Azimut Project)
+`2025 – 2026` · Cairo / Remote
 
-- 🔭 Currently working on **Enterprise Web Applications** with Spring Boot & React
-- 🌱 Mastering **Microservices Architecture** & **Cloud Technologies**
-- 💼 Experienced in **Laravel, Node.js, Angular, Vue.js**
-- 🎨 Building **RESTful APIs** and **Modern Web Interfaces**
-- 🚀 Passionate about **Clean Code** and **Agile Development**
-- 📊 Strong in **Database Design** (MySQL, PostgreSQL, MongoDB)
-- 🔒 Implementing **Secure Authentication** & **Role-Based Access Control**
+- Built enterprise modules with **Spring Boot** and **React**
+- Implemented API endpoints, authentication flows and data-visualization features
+- Worked with product and engineering teammates to improve UX and system integration
 
----
+### Full-Stack Developer & DevOps Engineer · Freelance
+`2025` · Remote
 
-## 💼 Professional Experience
+- Architected and deployed production web apps for clients, from requirements to ongoing maintenance
+- Built CI/CD pipelines with GitHub Actions / GitLab CI and containerized apps with Docker
+- Managed cloud and VPS infrastructure (AWS, GCP, DigitalOcean), tuning resources to reduce hosting costs
 
-<table>
-<tr>
-<td width="50%">
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-### 🏢 Optomatica - Full-Stack Developer
-**Azimut Project** | 2025
-- Developed enterprise web applications with **Spring Boot & React**
-- Implemented API endpoints & authentication flows
-- Optimized microservices for high-volume data processing
-- Collaborated using **Agile methodology**
-
-</td>
-<td width="50%">
-
-### 🏢 AuraQR - Full-Stack Developer
-2026 | Current
-- Built complete Mutiservices Projects with **Laravel & MySQL & NextJS & ReactJS**
-- Implemented admin dashboard & RBAC
-- Developed audio upload/playback system
-- Applied **MVC architecture** & RESTful principles
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 Soroban Learning Platform 
-- **https://sorobanalbarq.com**
-
-**Freelance** | 2025
-- Developed REST API with **Laravel 12**
-- Designed database architecture & authentication
-- Integrated **JWT-based login**
-- Optimized Eloquent queries for scalability
-
-</td>
-<td width="50%">
-
-### 🏥 Platform Engineer - SHefaa 
-- **https://v2-app.qraura.shop**
-
-**Aura QR | Healthcare Platform | 2026
-- Built multi-tenant healthcare platform
-- Implemented admin approval flows & RBAC
-- Enabled secure prescription issuance
-- Structured medicine & dosage controls
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
-
-### 🔧 Tools & Technologies
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-</p>
-
-### 🔌 APIs & Testing
-<p>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth"/>
-<img src="https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/>
-</p>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 NurseConnect Platform
-**NestJS | Next.js | TypeScript**
+### 📚 Hader · حَضّر
+**AI lesson preparation & exam platform**
 
-Platform connecting verified nurses with patients for at-home healthcare services.
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-**Key Features:**
-- 📍 Location-based matching
-- 🔐 Secure booking system
-- 💰 Commission-based payments
-- ✅ Verified nurse profiles
+Production SaaS that helps teachers on Saudi Arabia's **Madrasati** platform auto-prepare lessons and generate AI-powered exams, with subscriptions and usage quotas, a full admin console and a support-ticket system.
 
-<a href="https://github.com/HamdySalah"><img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://haderedu.com"><img src="https://img.shields.io/badge/Live-haderedu.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Laravel Job Board
-**Laravel | MySQL | Tailwind CSS**
+### 🏫 Nasaq · نسق
+**Multi-tenant school management SaaS**
 
-Full-stack job portal with comprehensive management system.
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
 
-**Key Features:**
-- 👥 Multi-role system (Admin/Employer/Candidate)
-- 📝 Job listing approval workflows
-- 🔍 Advanced search & filters
-- 📄 Resume upload system
+Upgraded a school platform into multi-tenant SaaS: tenant- and year-scoped data, a five-level role hierarchy, 30+ modules (academics, attendance, scheduling, online exams, digital library) and a full financial suite. Runs on a Hostinger VPS via Coolify.
 
-<a href="https://github.com/HamdySalah"><img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Private-client%20project-64748B?style=for-the-badge" alt="Private client project"/>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Exam Management System
-**Angular | Node.js | MongoDB**
+### 🚗 Saree3 · T-CARS
+**Automotive multi-service platform** · Aura QR
 
-Complete exam platform with role-based access control.
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Sanctum"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 
-**Key Features:**
-- 🎓 Student exam interface
-- 👨‍🏫 Admin question management
-- 📊 Results & analytics
-- 🔒 Secure authentication
+One platform for car sales, rentals, maintenance services and licence-plate auctions, with role-based access and moderation flows for every actor.
 
-<a href="https://github.com/HamdySalah"><img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/HamdySalah/T-Cars"><img src="https://img.shields.io/badge/Source-T--Cars-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Node.js E-commerce API
-**Node.js | Express | MongoDB**
+### 🏥 Shifa Medical · شفاء
+**Multi-tenant healthcare RBAC platform** · Aura QR
 
-Backend-only e-commerce API with payment integration.
+<img src="https://img.shields.io/badge/Laravel_API-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel API"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/>
 
-**Key Features:**
-- 🛍️ Cart & order management
-- 💳 Stripe/PayPal integration
-- 👤 Multi-role user system
-- ☁️ Deployed on Vercel
+Connects facility operations, doctor workflows and controlled prescription management, with admin approval flows, secure prescription issuance and structured medicine and dosage controls.
 
-<a href="https://github.com/HamdySalah"><img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Private-Aura%20QR-64748B?style=for-the-badge" alt="Private Aura QR project"/>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🤟 Sign Language Translator
-**Python | Computer Vision | Jupyter**
+### 🧮 Soroban Al-Barq
+**Mental-math (abacus) learning platform** · Freelance
 
-Real-time sign language gesture recognition system.
+<img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12"/> <img src="https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Sanctum"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 
-**Key Features:**
-- 👋 Hand landmark detection
-- 🔄 Real-time translation
-- 📊 Dataset comparison
-- 🤖 ML-powered recognition
+REST API powering course management, structured student-progress tracking and secure access control for an abacus learning platform.
 
-<a href="https://github.com/HamdySalah"><img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://sorobanalbarq.com"><img src="https://img.shields.io/badge/Live-sorobanalbarq.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Weather IoT System
-**JavaScript | Firebase | IoT**
+### 🩺 NurseConnect
+**At-home nursing marketplace** · ITI graduation project
 
-IoT meteorological system for university campus.
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" alt="Nx"/>
 
-**Key Features:**
-- 🌡️ Real-time weather data
-- 📡 IoT sensor integration
-- 🔔 Alert system
-- 📱 Responsive interface
+Connects verified nurses with patients for at-home care: location-based matching, secure booking, verified profiles and commission-based payments.
 
-<a href="https://github.com/HamdySalah"><img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/HamdySalah/Graduation-Project-ITI"><img src="https://img.shields.io/badge/Source-NurseConnect-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
 
 </td>
 </tr>
-
 </table>
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamdysalah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamdysalah&theme=tokyonight&hide_border=true&background=0D1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdysalah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamdysalah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3b82f6&line=3b82f6&point=ffffff" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-```diff
-+ 9-Month Professional Diploma - Open Source Track (ITI) - 2024-2025
-+ Full-Stack Web Development Certification (Coursera) - 2023
-+ JavaScript Algorithms and Data Structures (freeCodeCamp) - 2022
-+ 15+ Freelance Projects with 100% Client Satisfaction Rate
-+ Enterprise System Contributor at Optomatica
-```
-
-</div>
-
----
-
-## 🎨 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-profile-trophy.vercel.app/?username=hamdysalah&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-
-</div>
-
----
-
-## 💡 Problem Solving
-
-<div align="center">
-
-<a href="https://www.leetcode.com/hamdy_salah" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://codeforces.com/profile/hamdy_salah" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-<a href="https://stackoverflow.com/users/16470780" target="_blank">
-<img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-</a>
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:hamdysalah.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/hamdysalah97" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/HamdySalah" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://twitter.com/hamdy_salah31" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://instagram.com/hamdou_n97" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://fb.com/7amdysalah74" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
+<details>
+<summary><b>📂 More projects</b></summary>
 <br/>
 
-### 💬 Let's Collaborate!
-**Open to freelance projects, full-time opportunities, and exciting collaborations.**
+| Project | Stack | What it does |
+|---|---|---|
+| [Laravel Job Board](https://github.com/HamdySalah/Laravel-Job-Board) | Laravel · MySQL · Tailwind | Multi-role job portal (admin / employer / candidate) with approval workflows and resume uploads |
+| [E-commerce API](https://github.com/HamdySalah/E-commerce-API-Node-Peoject) | Node.js · Express · MongoDB | Backend API for carts, orders, payments and multi-role users |
+| [Exam System](https://github.com/HamdySalah/exam-system-full-stack) | Angular · Node.js · MongoDB | Exam platform with RBAC, question management and results |
+| [Bash Script DBMS](https://github.com/HamdySalah/Bash-Script-Project) | Bash | CLI database engine for creating, storing and querying records on disk |
+| [Sign Language Translator](https://github.com/HamdySalah/Sign-Language-Translator) | Python · OpenCV | Detects hand landmarks and translates gestures into readable text |
+| [Weather Reporting System](https://github.com/HamdySalah/Weather-Reporting-System) | JavaScript · Firebase | Graduation project: campus meteorological reporting for faster decisions |
+| [NYC Taxi Trip Analysis](https://github.com/HamdySalah/Big-Data-ML-Project-NYC-Taxi-Trip-Analysis-with-Apache-Spark) | Python · Apache Spark | Big-data and ML analysis of NYC taxi trips |
 
-</div>
+</details>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
-
-### ⚡ Fun Fact
-```javascript
-const hamdy = {
-    code: ["PHP", "JavaScript", "Java", "Python"],
-    askMeAbout: ["Web Dev", "System Admin", "APIs", "Database Design"],
-    technologies: {
-        backend: ["Laravel", "Spring Boot", "Node.js", "NestJS"],
-        frontend: ["React", "Angular", "Vue.js", "Next.js"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        devOps: ["Docker", "Linux", "AWS", "CI/CD"],
-    },
-    currentFocus: "Building Scalable Full-Stack Applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-</div>
-
----
+## 🛠️ Tech stack
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<table>
+<tr>
+<td align="center" width="130"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=php,js,ts,java,py,cpp,bash&theme=dark" alt="PHP, JavaScript, TypeScript, Java, Python, C++, Bash"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,spring,django,graphql&theme=dark" alt="Laravel, NestJS, Node.js, Express, Spring Boot, Django, GraphQL"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,jquery&theme=dark" alt="React, Next.js, Vue, Angular, Tailwind CSS, Bootstrap, jQuery"/></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase&theme=dark" alt="MySQL, PostgreSQL, MongoDB, SQLite, Firebase"/></td>
+</tr>
+<tr>
+<td align="center"><b>DevOps & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,githubactions,aws,gcp,vercel&theme=dark" alt="Linux, Ubuntu, Nginx, Docker, GitHub Actions, AWS, GCP, Vercel"/></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pnpm,wordpress&theme=dark" alt="Git, GitHub, VS Code, Postman, pnpm, WordPress"/></td>
+</tr>
+</table>
 
-![Snake animation](https://raw.githubusercontent.com/HamdySalah/HamdySalah/output/github-contribution-grid-snake-dark.svg)
+<img src="https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white" alt="Coolify"/>
+<img src="https://img.shields.io/badge/EasyPanel-0F172A?style=flat-square&logo=serverless&logoColor=white" alt="EasyPanel"/>
+<img src="https://img.shields.io/badge/Hostinger_VPS-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger VPS"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger / OpenAPI"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+<img src="https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square&logo=php&logoColor=white" alt="PHPUnit"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HamdySalah&border_radius=10&background=0D1117&border=30363D&stroke=30363D&ring=3B82F6&fire=8B5CF6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=HamdySalah&border_radius=10&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=1D4ED8&fire=7C3AED&currStreakNum=24292F&sideNums=24292F&currStreakLabel=1D4ED8&sideLabels=57606A&dates=57606A" alt="GitHub streak"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdySalah&layout=compact&langs_count=8&hide=html,css&card_width=360&border_radius=10&bg_color=0D1117&border_color=30363D&title_color=3B82F6&text_color=C9D1D9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdySalah&layout=compact&langs_count=8&hide=html,css&card_width=360&border_radius=10&bg_color=FFFFFF&border_color=D0D7DE&title_color=1D4ED8&text_color=24292F" alt="Top languages"/>
+</picture>
 
-### Show some ❤️ by starring some of the repositories!
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamdySalah/HamdySalah/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/HamdySalah/HamdySalah/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+</picture>
 
 </div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🎓 Education
+
+- **9-Month Professional Diploma, Open-Source Track:** Information Technology Institute (ITI), Assiut · `2024 – 2025`
+- **BSc in Computer & Information Technology:** Assiut University · `2020 – 2024`
+
+🌍 **Languages:** Arabic (native) · English (C1, advanced)
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🤝 Let's work together
+
+<div align="center">
+
+I'm open to **full-time roles, freelance projects and collaborations**, especially on SaaS and backend-heavy products.
+
+<a href="https://hamdy-salah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/hamdy-salah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:HamdySalah.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/Hamdy_salah31"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://leetcode.com/hamdy_salah"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://codeforces.com/profile/hamdy_salah"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://stackoverflow.com/users/16470780"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=120&section=footer" width="100%" alt=""/>
